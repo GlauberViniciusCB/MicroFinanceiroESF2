@@ -10,5 +10,4 @@ public class Fatura {
     private LocalDate vencimento;
     private boolean paga;
     private String linkBoleto;
-
 }
